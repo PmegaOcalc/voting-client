@@ -1,0 +1,7 @@
+{
+    "requireSemicolons": false,
+    "requireSpacesInAnonymousFunctionExpression": false,
+    "requirePaddingNewLinesAfterBlocks": false,
+    "requireSpacesInsideObjectBrackets": false,
+    "validateQuoteMarks": false,
+}
